@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
-    <PackageIcon>Icon.png</PackageIcon>
+    <PackageIcon>Icon.ico</PackageIcon>
     <Authors>Saman Azadi</Authors>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="wwwroot\Icon.png">
+    <None Include="wwwroot\Icon.ico">
       <Pack>True</Pack>
       <PackagePath></PackagePath>
     </None>
